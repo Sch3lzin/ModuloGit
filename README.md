@@ -1,2 +1,1 @@
-Meu primeiro sistema no Git
-alteração no README
+Meu primeiro sistema no Git (alterado e atualizado)
